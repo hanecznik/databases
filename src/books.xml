@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <id>1</id>
+        <title>Moby Dick</title>
+        <isbn>9780142437247</isbn>
+        <category_id>1</category_id>
+        <published_year>1851</published_year>
+        <copies>10</copies>
+        <available_copies>5</available_copies>
+    </book>
+    <book>
+        <id>2</id>
+        <title>Lord of the rings</title>
+        <isbn>9788373271890</isbn>
+        <category_id>2</category_id>
+        <published_year>1954</published_year>
+        <copies>10</copies>
+        <available_copies>5</available_copies>
+    </book>
+</library>
